@@ -1,1 +1,12 @@
-[{"title":"new note","text":"hello world","id":"60d11f6f-1568-4f95-aacd-2f1913852404"},{"title":"test","text":"hi and bye","id":"b7f49e00-fe71-4831-a74e-ddffbb832bcc"}]
+[
+    {
+        "title": "new note",
+        "text": "hello world",
+        "id": "60d11f6f-1568-4f95-aacd-2f1913852404"
+    },
+    {
+        "title": "test",
+        "text": "hi and bye",
+        "id": "b7f49e00-fe71-4831-a74e-ddffbb832bcc"
+    }
+]

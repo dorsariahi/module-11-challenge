@@ -5,7 +5,7 @@
 * [Deployed Link](https://github.com/dorsariahi/module-11-challenge#Deployed-Link)
 * [Contact](https://github.com/dorsariahi/module-11-challenge#Contact)
 # Description 
-In this module we created the team of employees which include the a Manager, Engineer(s),Intern(s).we created the team with node.js. meaning users input will be saved and used to create the team.
+In this module we created the note taker app. this app has features such as saving the note you have entered and delete it as well. you can open the notes you saved previously and make changes there.
 # Deployed Link
 *[Click here!]()
 # Contact
