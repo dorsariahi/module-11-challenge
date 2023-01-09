@@ -1,4 +1,5 @@
-# module-11-challenge (Note Taker)
+# module-11-challenge 
+## Note Taker
 # Table of content
 * [Description](https://github.com/dorsariahi/module-11-challenge#Description)
 * [Deployed Link](https://github.com/dorsariahi/module-11-challenge#Deployed-Link)
